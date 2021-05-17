@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+[In reply to 🌟]
+<img src="https://avatars.githubusercontent.com/u/84289580?s=400&u=e4fe2f52dc54cac8dfe47b92eaef2de98b116e88&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/amirhoseinghafari/resume-farsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ <h1> درباره ی من</h1>
+  <p> من امیرحسین غفاری ،دانشجوی ڪارشناسی رشته ی مهندسی نرم افزار در دانشگاه پیام نور تهران شمال هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:امیرحسین</li>
+  <li>نام خانوادگے: غفاری</li>
+  <li>تاریخ تولد: 1378/07/16</li>
+  <li>وضعیت تاهل: مجرد</li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</ul>
 
-### Markdown
+  
+<h1>مهارت ها</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul>
+    <li>SQL server</li>
+  <li>شتیبان نرم افزار حسابداری به اندیش</li>
+</ul>
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<br/>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
 
-- Bulleted
-- List
+ 
+   -Gmail :amirhossein.78agh@gmail.com
 
-1. Numbered
-2. List
+   - کوئرا: <a href="https://quera.ir/profile/amirhoseinghafari78">My Profile</a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amirhoseinghafari/resume-farsi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   - رزومه ی انگلیسی: <a href="https://amirhoseinghafari.github.io/resume/"> Resume </a>
+</ul>
