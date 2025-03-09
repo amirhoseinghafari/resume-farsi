@@ -16,7 +16,7 @@
 <h1>مهارت ها</h1>
 
 <ul>
-    <li>SQL server</li>
+    <li>DBA SQL server</li>
   <li>پشتیبان نرم افزار حسابداری به اندیش</li>
 </ul>
 <h1> زبان ها</h1>
